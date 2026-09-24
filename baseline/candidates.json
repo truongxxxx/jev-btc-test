@@ -1,0 +1,48 @@
+{
+  "A_top12": [
+    "m15_dev_ret_atr",
+    "h1_dev_ret_atr",
+    "dist_ema9_atr",
+    "m15_ret1_atr",
+    "streak",
+    "ret3_atr",
+    "dow",
+    "dist_ema200_atr",
+    "m15_rsi14",
+    "h1_ret1_atr",
+    "hour_cos",
+    "rsi14"
+  ],
+  "B_top6": [
+    "m15_dev_ret_atr",
+    "h1_dev_ret_atr",
+    "dist_ema9_atr",
+    "m15_ret1_atr",
+    "streak",
+    "ret3_atr"
+  ],
+  "C_classic": [
+    "ema_stack",
+    "dist_ema21_atr",
+    "slope_ema21_atr",
+    "rsi14",
+    "rsi14_chg3",
+    "macd_hist_atr",
+    "macd_hist_chg",
+    "m15_ema_stack",
+    "m15_rsi14",
+    "m15_macd_hist_atr",
+    "h1_ema_stack",
+    "h1_rsi14"
+  ],
+  "D_trend": [
+    "dist_ema9_atr",
+    "dist_ema21_atr",
+    "dist_ema50_atr",
+    "dist_ema200_atr",
+    "slope_ema9_atr",
+    "slope_ema21_atr",
+    "slope_ema50_atr",
+    "ema_stack"
+  ]
+}

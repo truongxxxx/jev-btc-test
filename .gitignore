@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- project ---
+# market data: download with data/update_binance.py
+data/*.csv
+# generated intermediates (rebuilt by the scripts)
+*.parquet
+# raw Jev responses: produce your own with jev/run_jev.py
+jev/results_*.jsonl
